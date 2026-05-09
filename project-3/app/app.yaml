@@ -1,0 +1,7 @@
+runtime: python311
+
+env_variables:
+  DB_HOST: "136.115.48.140"
+  DB_NAME: "appdb"
+  DB_USER: "appuser"
+  DB_PASS: "AbdiSecure2024!"
